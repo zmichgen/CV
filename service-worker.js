@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/zmichgen/CV/precache-manifest.f91ef8e6f74f7c775f3cdedcf8a6840c.js"
+  "/CV/precache-manifest.2d5fa7a9f209e2eb3ee9d0c9fb736597.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/zmichgen/CV/index.html", {
+workbox.routing.registerNavigationRoute("/CV/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
