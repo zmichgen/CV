@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/CV/static/media/cult_portal.b6484435.jpg"
   },
   {
-    "revision": "05763f5c7dba25064bd0",
-    "url": "/CV/static/css/main.bb707a72.chunk.css"
+    "revision": "ed4c1f4367d31d9fdbf8",
+    "url": "/CV/static/css/main.6ef5b741.chunk.css"
   },
   {
     "revision": "b56a6929e4b727684902",
@@ -16,8 +16,12 @@ self.__precacheManifest = [
     "url": "/CV/static/media/Lato-Medium.59efc794.ttf"
   },
   {
-    "revision": "e231d1c59f1696f65040",
-    "url": "/CV/static/js/2.e231d1c5.chunk.js"
+    "revision": "6332292168795fe27eeb",
+    "url": "/CV/static/js/2.63322921.chunk.js"
+  },
+  {
+    "revision": "2feceb40cf9dec2aa9653a37623d2d1b",
+    "url": "/CV/static/media/photo.2feceb40.jpg"
   },
   {
     "revision": "905ce97b3bd04a04760c0da784afa5cd",
@@ -32,20 +36,24 @@ self.__precacheManifest = [
     "url": "/CV/static/media/game.daf00eec.jpg"
   },
   {
-    "revision": "05763f5c7dba25064bd0",
-    "url": "/CV/static/js/main.05763f5c.chunk.js"
+    "revision": "ed4c1f4367d31d9fdbf8",
+    "url": "/CV/static/js/main.ed4c1f43.chunk.js"
   },
   {
     "revision": "a3275a61eb1be7375043dc78d0fc3b01",
     "url": "/CV/static/media/presentaton.a3275a61.jpg"
   },
   {
-    "revision": "a29c1164258e60fb8047e650a1c8ee8e",
-    "url": "/CV/static/media/cv.a29c1164.jpg"
+    "revision": "d99dfb55ff3184554753db5e5fbf9d2a",
+    "url": "/CV/static/media/cv.d99dfb55.jpg"
   },
   {
     "revision": "2e3527807229730e758b0636189626c3",
     "url": "/CV/static/media/fon.2e352780.jpg"
+  },
+  {
+    "revision": "9e25ee70c4f83add3c45ec7fd968aac9",
+    "url": "/CV/static/media/new-font.9e25ee70.ttf"
   },
   {
     "revision": "d7e06b3006c000446ba07df1d4955920",
@@ -56,11 +64,11 @@ self.__precacheManifest = [
     "url": "/CV/static/media/azoft-sans-bold.5f0f996b.ttf"
   },
   {
-    "revision": "e231d1c59f1696f65040",
+    "revision": "6332292168795fe27eeb",
     "url": "/CV/static/css/2.c58c7c2f.chunk.css"
   },
   {
-    "revision": "b334dd41e16776cf37b78c3cf9f6d7a4",
+    "revision": "214de45ef410e3c3bf7e1e41e0769707",
     "url": "/CV/index.html"
   }
 ];
