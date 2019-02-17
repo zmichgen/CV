@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/CV/static/media/cult_portal.b6484435.jpg"
   },
   {
-    "revision": "ed4c1f4367d31d9fdbf8",
-    "url": "/CV/static/css/main.6ef5b741.chunk.css"
+    "revision": "3baa1da0f2b0ba4e9906",
+    "url": "/CV/static/css/main.e3dc3750.chunk.css"
   },
   {
     "revision": "b56a6929e4b727684902",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/CV/static/media/game.daf00eec.jpg"
   },
   {
-    "revision": "ed4c1f4367d31d9fdbf8",
-    "url": "/CV/static/js/main.ed4c1f43.chunk.js"
+    "revision": "3baa1da0f2b0ba4e9906",
+    "url": "/CV/static/js/main.3baa1da0.chunk.js"
   },
   {
     "revision": "a3275a61eb1be7375043dc78d0fc3b01",
@@ -52,10 +52,6 @@ self.__precacheManifest = [
     "url": "/CV/static/media/fon.2e352780.jpg"
   },
   {
-    "revision": "9e25ee70c4f83add3c45ec7fd968aac9",
-    "url": "/CV/static/media/new-font.9e25ee70.ttf"
-  },
-  {
     "revision": "d7e06b3006c000446ba07df1d4955920",
     "url": "/CV/static/media/bison-bold.d7e06b30.ttf"
   },
@@ -64,11 +60,15 @@ self.__precacheManifest = [
     "url": "/CV/static/media/azoft-sans-bold.5f0f996b.ttf"
   },
   {
+    "revision": "9e25ee70c4f83add3c45ec7fd968aac9",
+    "url": "/CV/static/media/new-font.9e25ee70.ttf"
+  },
+  {
     "revision": "6332292168795fe27eeb",
     "url": "/CV/static/css/2.c58c7c2f.chunk.css"
   },
   {
-    "revision": "214de45ef410e3c3bf7e1e41e0769707",
+    "revision": "11d5d0af92dd12adb122a660aa7bd549",
     "url": "/CV/index.html"
   }
 ];
