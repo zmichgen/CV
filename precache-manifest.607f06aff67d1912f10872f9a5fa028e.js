@@ -4,20 +4,20 @@ self.__precacheManifest = [
     "url": "/CV/static/media/roboto-latin-100italic.6232f43d.woff2"
   },
   {
-    "revision": "e7df5e7d2eb31fee557e",
-    "url": "/CV/static/css/main.dbc9c5a0.chunk.css"
+    "revision": "c0975726d595ca355b1b",
+    "url": "/CV/static/css/main.a91423e1.chunk.css"
   },
   {
     "revision": "b56a6929e4b727684902",
     "url": "/CV/static/js/runtime~main.b56a6929.js"
   },
   {
-    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
-    "url": "/CV/static/media/roboto-latin-400italic.9680d5a0.woff"
+    "revision": "bc833e725c137257c2c42a789845d82f",
+    "url": "/CV/static/media/roboto-latin-900italic.bc833e72.woff"
   },
   {
-    "revision": "e57ef62e78cd9bf3722c",
-    "url": "/CV/static/js/2.e57ef62e.chunk.js"
+    "revision": "c40fa180fb5cc0aec14f",
+    "url": "/CV/static/js/2.c40fa180.chunk.js"
   },
   {
     "revision": "2feceb40cf9dec2aa9653a37623d2d1b",
@@ -68,12 +68,16 @@ self.__precacheManifest = [
     "url": "/CV/static/media/fon.2e352780.jpg"
   },
   {
+    "revision": "16a7e139d334157f8f414a5022e03877",
+    "url": "/CV/static/media/12223.16a7e139.ttf"
+  },
+  {
     "revision": "d7e06b3006c000446ba07df1d4955920",
     "url": "/CV/static/media/bison-bold.d7e06b30.ttf"
   },
   {
-    "revision": "16a7e139d334157f8f414a5022e03877",
-    "url": "/CV/static/media/12223.16a7e139.ttf"
+    "revision": "5f0f996ba67def5ddcf9d2df91d64c18",
+    "url": "/CV/static/media/azoft-sans-bold.5f0f996b.ttf"
   },
   {
     "revision": "9e25ee70c4f83add3c45ec7fd968aac9",
@@ -84,16 +88,12 @@ self.__precacheManifest = [
     "url": "/CV/static/media/Lato-Medium.59efc794.ttf"
   },
   {
-    "revision": "5f0f996ba67def5ddcf9d2df91d64c18",
-    "url": "/CV/static/media/azoft-sans-bold.5f0f996b.ttf"
-  },
-  {
     "revision": "e9dbbe8a693dd275c16d32feb101f1c1",
     "url": "/CV/static/media/roboto-latin-100.e9dbbe8a.woff"
   },
   {
-    "revision": "e7df5e7d2eb31fee557e",
-    "url": "/CV/static/js/main.e7df5e7d.chunk.js"
+    "revision": "c0975726d595ca355b1b",
+    "url": "/CV/static/js/main.c0975726.chunk.js"
   },
   {
     "revision": "55536c8e9e9a532651e3cf374f290ea3",
@@ -136,32 +136,28 @@ self.__precacheManifest = [
     "url": "/CV/static/media/roboto-latin-500.de8b7431.woff"
   },
   {
-    "revision": "510dec37fa69fba39593e01a469ee018",
-    "url": "/CV/static/media/roboto-latin-500italic.510dec37.woff2"
+    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
+    "url": "/CV/static/media/roboto-latin-300italic.d69924b9.woff2"
   },
   {
-    "revision": "037d830416495def72b7881024c14b7b",
-    "url": "/CV/static/media/roboto-latin-700.037d8304.woff2"
+    "revision": "9680d5a0c32d2fd084e07bbc4c8b2923",
+    "url": "/CV/static/media/roboto-latin-400italic.9680d5a0.woff"
+  },
+  {
+    "revision": "ffcc050b2d92d4b14a4fcb527ee0bcc8",
+    "url": "/CV/static/media/roboto-latin-500italic.ffcc050b.woff"
   },
   {
     "revision": "cf6613d1adf490972c557a8e318e0868",
     "url": "/CV/static/media/roboto-latin-700.cf6613d1.woff"
   },
   {
-    "revision": "d69924b98acd849cdeba9fbff3f88ea6",
-    "url": "/CV/static/media/roboto-latin-300italic.d69924b9.woff2"
-  },
-  {
-    "revision": "846d1890aee87fde5d8ced8eba360c3a",
-    "url": "/CV/static/media/roboto-latin-700italic.846d1890.woff"
+    "revision": "037d830416495def72b7881024c14b7b",
+    "url": "/CV/static/media/roboto-latin-700.037d8304.woff2"
   },
   {
     "revision": "19b7a0adfdd4f808b53af7e2ce2ad4e5",
     "url": "/CV/static/media/roboto-latin-900.19b7a0ad.woff2"
-  },
-  {
-    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
-    "url": "/CV/static/media/roboto-latin-900.8c2ade50.woff"
   },
   {
     "revision": "010c1aeee3c6d1cbb1d5761d80353823",
@@ -172,19 +168,23 @@ self.__precacheManifest = [
     "url": "/CV/static/media/roboto-latin-900italic.7b770d6c.woff2"
   },
   {
-    "revision": "bc833e725c137257c2c42a789845d82f",
-    "url": "/CV/static/media/roboto-latin-900italic.bc833e72.woff"
+    "revision": "510dec37fa69fba39593e01a469ee018",
+    "url": "/CV/static/media/roboto-latin-500italic.510dec37.woff2"
   },
   {
-    "revision": "ffcc050b2d92d4b14a4fcb527ee0bcc8",
-    "url": "/CV/static/media/roboto-latin-500italic.ffcc050b.woff"
+    "revision": "846d1890aee87fde5d8ced8eba360c3a",
+    "url": "/CV/static/media/roboto-latin-700italic.846d1890.woff"
   },
   {
-    "revision": "e57ef62e78cd9bf3722c",
+    "revision": "8c2ade503b34e31430d6c98aa29a52a3",
+    "url": "/CV/static/media/roboto-latin-900.8c2ade50.woff"
+  },
+  {
+    "revision": "c40fa180fb5cc0aec14f",
     "url": "/CV/static/css/2.1f4d950a.chunk.css"
   },
   {
-    "revision": "54178cff586c658ee820e8e74ff21cdc",
+    "revision": "9a727de24b3edfd282c6f40b5d142ed4",
     "url": "/CV/index.html"
   }
 ];
