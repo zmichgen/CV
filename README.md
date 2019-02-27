@@ -1,3 +1,3 @@
 # CV
 
-[DEMO](https://zmichgen.github.io/CV>)
+[DEMO](https://zmichgen.github.io/CV/)
